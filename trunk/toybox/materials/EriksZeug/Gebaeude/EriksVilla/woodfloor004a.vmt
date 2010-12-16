@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "hl2beta-materials/wood/woodfloor004a"
+	"$surfaceprop" "wood"
+	"%keywords" "c17skyscraper"
+}

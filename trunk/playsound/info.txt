@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"PlaySound"
+	"version"		"1.0"
+	"up_date"		"23rd October 2008"
+	"author_name"	"Team Half-Life"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		"Used to play serverside sounds."
+}

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "plaster/plasterwall043b"
+	"$surfaceprop"  "plaster"
+
+	"$bumpmap" "plaster/plasterwall043b_normal"
+	"%keywords" "c17downtown"
+}

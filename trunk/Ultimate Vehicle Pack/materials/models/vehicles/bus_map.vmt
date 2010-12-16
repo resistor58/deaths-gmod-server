@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+      "$nocull" 1
+	"$baseTexture" "models\vehicles\bus_map"
+      //"$alpha" "1"
+ 	//"$alphatest" "1"
+}

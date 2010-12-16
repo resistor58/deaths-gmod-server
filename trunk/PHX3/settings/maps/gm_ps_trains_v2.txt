@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Garry's Mod"
+	{
+		"Gm_Ps_Trains_V2"
+		{
+			"Credits"	"PhoeniX-Storms"
+			"Material"	"maps/gm_ps_trains_v2"	
+		}
+	}
+	
+}

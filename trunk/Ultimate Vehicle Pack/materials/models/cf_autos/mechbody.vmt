@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/cf_autos/mechbody"
+        "$bumpmap" "models/cf_autos/mechbody_normal"
+}

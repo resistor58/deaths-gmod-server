@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\CoDWaW\germans/ger_burnt"
+	"$halflambert" 1
+	"$nocull" 1
+}

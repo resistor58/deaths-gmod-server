@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\CoDWaW\germans/char_ger_shades_c"
+	"$nocull" 1
+}

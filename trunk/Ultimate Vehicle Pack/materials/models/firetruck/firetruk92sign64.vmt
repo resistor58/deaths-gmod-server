@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "models/firetruck/firetruk92sign64"
+	"$translucent" 1
+}

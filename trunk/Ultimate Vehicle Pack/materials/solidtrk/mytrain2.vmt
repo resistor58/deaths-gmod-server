@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "solidtrk/mytrain2"
+        $model 1
+}

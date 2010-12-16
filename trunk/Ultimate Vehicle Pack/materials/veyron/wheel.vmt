@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "veyron/wheel"
+	$envmap env_cubemap
+	$envmapmask "veyron/wheelc"
+	$envmapcontrast 1
+        $model 1
+}

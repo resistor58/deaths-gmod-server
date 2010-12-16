@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/francis115/r2d2"
+	"$surfaceprop" "solidmetal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1 1 1 ]"
+	"$envmapcontrast" 0
+	"$envmapsaturation" 0	//"$envmapmask" "models/francis115/r2d2_spec"
+	"$selfillum" 0
+	"$model" 1
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "150"
+ 	"$phongboost"   "1"
+ 	"$phongfresnelranges"   "[.2 .2 .2]"
+
+
+}

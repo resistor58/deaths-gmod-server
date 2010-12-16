@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/h2/wheel"
+	"$nocull" 1
+}

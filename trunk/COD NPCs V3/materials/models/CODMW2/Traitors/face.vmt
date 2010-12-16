@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\CODMW2\traitors\face"
+  	"$bumpmap" "models\CODMW2/traitors\face_norm"
+}

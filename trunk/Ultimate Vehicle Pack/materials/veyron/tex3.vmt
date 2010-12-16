@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "veyron/tex3"
+	$envmap env_cubemap
+	$envmapmask "veyron/tex1c"
+	$envmapcontrast 1
+        $model 1
+}

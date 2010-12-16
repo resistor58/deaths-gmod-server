@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\CTS/headlight"
+	//$envmap	env_cubemap
+	$model		1
+}

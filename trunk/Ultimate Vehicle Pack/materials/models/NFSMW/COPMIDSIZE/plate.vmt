@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\COPMIDSIZE/plate"
+	$model		1
+}

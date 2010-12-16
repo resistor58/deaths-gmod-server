@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\props\de_nuke\gt4_ggg"
+	"$surfaceprop" "metal"
+}

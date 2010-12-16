@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"als/PHONE/v_hands"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "als/PHONE/v_hands_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+}

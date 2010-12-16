@@ -1,0 +1,59 @@
+"ModelPack"
+{
+
+	"XQM Button1"
+	{
+		"categories"    "button"
+		"model"         "models/XQM/button1.mdl"
+
+		"files"
+		{
+			"0" "models/XQM/button1.dx80.vtx"
+			"1" "models/XQM/button1.dx90.vtx"
+			"2" "models/XQM/button1.phy"
+			"3" "models/XQM/button1.sw.vtx"
+			"4" "models/XQM/button1.vvd"
+			"5" "materials/models/XQM/button1_diffuse.vmt"
+			"6" "materials/models/XQM/button1_diffuse.vtf"
+			"7" "materials/models/XQM/Button1_normal.vtf"
+		}
+	}
+
+	"XQM Button2"
+	{
+		"categories"    "button"
+		"model"         "models/XQM/button2.mdl"
+
+		"files"
+		{
+			"0" "models/XQM/button2.dx80.vtx"
+			"1" "models/XQM/button2.dx90.vtx"
+			"2" "models/XQM/button2.phy"
+			"3" "models/XQM/button2.sw.vtx"
+			"4" "models/XQM/button2.vvd"
+			"5" "materials/models/XQM/button2_diffuse.vmt"
+			"6" "materials/models/XQM/button2_diffuse.vtf"
+			"7" "materials/models/XQM/Button2_normal.vtf"
+		}
+	}
+
+	"XQM Button3"
+	{
+		"categories"    "button"
+		"model"         "models/XQM/button3.mdl"
+
+		"files"
+		{
+			"0" "models/XQM/button3.dx80.vtx"
+			"1" "models/XQM/button3.dx90.vtx"
+			"2" "models/XQM/button3.phy"
+			"3" "models/XQM/button3.sw.vtx"
+			"4" "models/XQM/button3.vvd"
+			"5" "materials/models/XQM/button3_diffuse.vmt"
+			"6" "materials/models/XQM/button3_diffuse.vtf"
+			"7" "materials/models/XQM/Button3_normal.vtf"
+		}
+	}
+
+
+}

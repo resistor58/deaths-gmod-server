@@ -1,0 +1,11 @@
+"Maps"
+{
+	"Garrys Mod On Wheels"
+	{
+		"gp_highway_fix"
+		{
+			"Credits"	"Gplex & GiGaBiTe"
+			"Material"	"maps/gp_highway_fix"
+		}
+	}
+}

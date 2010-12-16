@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\Kfu.Tin_Opener\lateadora2"
+	"$bumpmap" "models\weapons\v_models\Kfu.Tin_Opener\lateadora2_norm"
+	"$envmapmask" "models\weapons\v_models\Kfu.Tin_Opener\lateadora2_ref"
+}

@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+	
+	"$nocull" 1
+	$envmapcontrast 1
+        $basetexture "models/smart/smarttex"
+}

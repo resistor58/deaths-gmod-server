@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\CoDWaW\germans/char_ger_gear_decals_c"
+	"$bumpmap" "models\bloocobalt\CoDWaW\germans/char_ger_gear_decals_n"
+	"$alphatest" 1
+	"$halflambert" 1
+	"$nocull" 1
+}

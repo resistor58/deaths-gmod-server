@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "zakhaev/sp_characters_sonofzakhaev_clr"
+	"$bumpmap" "zakhaev/sp_characters_sonofzakhaev_nml"
+}

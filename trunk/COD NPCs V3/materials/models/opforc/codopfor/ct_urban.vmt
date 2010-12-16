@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\opforc\codopfor\ct_urban"
+	"$bumpmap" "models\opforc\codopfor\ct_urban_normal"
+	"$phong" "1"
+
+	"$phongexponent" 1.75
+	"$phongboost" "1.25"	
+	"$phongfresnelranges"	"[.25 1.25 6.5]"
+	"$phongexponenttexture" "models\opforc\codopfor\ct_urban_exp"
+	"$phongalbedotint" "1"
+}

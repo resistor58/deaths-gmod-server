@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\CTS/wheel_mark"
+	$translucent	1
+	$model		1
+}

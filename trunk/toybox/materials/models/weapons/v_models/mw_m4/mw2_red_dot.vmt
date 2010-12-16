@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"Models\Weapons\V_Models\mw_m4\mw2_red_dot"
+                "$model" "1"
+                "$translucent" "1"
+                "$additive" "1"	
+}

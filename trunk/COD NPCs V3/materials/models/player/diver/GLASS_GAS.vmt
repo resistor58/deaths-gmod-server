@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/diver/glass_GAS"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/player/diver/glass_GAS"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+
+}

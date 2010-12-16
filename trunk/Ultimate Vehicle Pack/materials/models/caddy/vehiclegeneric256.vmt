@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+	$envmapcontrast 1
+        $basetexture "models\caddy\vehiclegeneric256"
+}

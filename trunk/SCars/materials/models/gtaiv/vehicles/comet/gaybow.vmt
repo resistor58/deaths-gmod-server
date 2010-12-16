@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv/vehicles/comet/gaybow"
+	"$selfillum" 1
+	"$bumpmap" "models\gtaiv/vehicles/comet/gaybow_n"
+	"$phong" "1"
+	"$phongexponent" "9000.01"
+	"$phongboost" "18.3"	
+	"$phongfresnelranges"	"[.6 6 6]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "40"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "10"	
+
+}

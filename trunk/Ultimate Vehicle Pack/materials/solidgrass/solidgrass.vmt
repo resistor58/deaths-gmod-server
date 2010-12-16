@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+        "$basetexture" "solidgrass/solidgrass"
+	"%detailtype" citygrass01
+	"%tooltexture" "solidgrass/solidgrass"
+	"$surfaceprop" "dirt"
+}

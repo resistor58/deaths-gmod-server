@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	$envmapcontrast 1
+        $basetexture "models\cabbie\vehiclegeneric256"
+}

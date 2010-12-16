@@ -1,0 +1,38 @@
+Sound("HeavyMetal.ImpactHard")
+Sound("HeavyMetal.ImpactSoft")
+Sound("Egg.Crack")
+
+//Thruster Sounds
+
+list.Set( "ThrusterSounds", "PHX - Hover (Light)________[Phx.HoverLight]", { thruster_soundname = "Phx.HoverLight" } )
+list.Set( "ThrusterSounds", "PHX - Hover (Standard)_____[Phx.HoverStandard]", { thruster_soundname = "Phx.HoverStandard" } )
+list.Set( "ThrusterSounds", "PHX - Hover (Heavy)________[Phx.HoverHeavy]", { thruster_soundname = "Phx.HoverHeavy" } )
+list.Set( "ThrusterSounds", "PHX - Afterburner 1________[Phx.Afterburner1]", { thruster_soundname = "Phx.Afterburner1" } )
+list.Set( "ThrusterSounds", "PHX - Afterburner 2________[Phx.Afterburner2]", { thruster_soundname = "Phx.Afterburner2" } )
+list.Set( "ThrusterSounds", "PHX - Afterburner 3________[Phx.Afterburner3]", { thruster_soundname = "Phx.Afterburner3" } )
+list.Set( "ThrusterSounds", "PHX - Afterburner 4________[Phx.Afterburner4]", { thruster_soundname = "Phx.Afterburner4" } )
+list.Set( "ThrusterSounds", "PHX - Afterburner 5________[Phx.Afterburner5]", { thruster_soundname = "Phx.Afterburner5" } )
+list.Set( "ThrusterSounds", "PHX - Turbine______________[Phx.Turbine]", { thruster_soundname = "Phx.Turbine" } )
+list.Set( "ThrusterSounds", "PHX - Alien Engine 1_______[Phx.Alien1]", { thruster_soundname = "Phx.Alien1" } )
+list.Set( "ThrusterSounds", "PHX - Alien Engine 2_______[Phx.Alien2]", { thruster_soundname = "Phx.Alien2" } )
+list.Set( "ThrusterSounds", "PHX - Jet Engine 1_________[Phx.Jet1]", { thruster_soundname = "Phx.Jet1" } )
+list.Set( "ThrusterSounds", "PHX - Jet Engine 2_________[Phx.Jet2]", { thruster_soundname = "Phx.Jet2" } )
+list.Set( "ThrusterSounds", "PHX - Jet Engine 3_________[Phx.Jet3]", { thruster_soundname = "Phx.Jet3" } )
+list.Set( "ThrusterSounds", "PHX - Jet Engine 4_________[Phx.Jet4]", { thruster_soundname = "Phx.Jet4" } )
+
+//Propeller Sounds
+
+list.Set( "PHXPropellerSounds", "Default (Airboat)", { phx_propeller_soundname = "Airboat_fan_idle"} )
+list.Set( "PHXPropellerSounds", "Airboat Fan", { phx_propeller_soundname = "Airboat_fan_idle"} )
+list.Set( "PHXPropellerSounds", "Airboat V8 Engine", { phx_propeller_soundname = "Airboat_engine_fullthrottle"} )
+list.Set( "PHXPropellerSounds", "Airboat Full Throttle", { phx_propeller_soundname = "Airboat_fan_fullthrottle"} )
+list.Set( "PHXPropellerSounds", "Diesel Engine", { phx_propeller_soundname = "ATV_engine_idle"} )
+list.Set( "PHXPropellerSounds", "Big Diesel Engine", { phx_propeller_soundname = "Crane_engine_idle"} )
+list.Set( "PHXPropellerSounds", "Dropship Engine", { phx_propeller_soundname = "NPC_CombineDropship.NearRotorLoop"} )
+list.Set( "PHXPropellerSounds", "Dropship Engine (Landed)", { phx_propeller_soundname = "NPC_CombineDropship.OnGroundRotorLoop"} )
+list.Set( "PHXPropellerSounds", "Dropship Engine 2", { phx_propeller_soundname = "NPC_CombineDropship.RotorLoop"} )
+list.Set( "PHXPropellerSounds", "Dropship Engine (Exhaust)", { phx_propeller_soundname = "NPC_CombineGunship.ExhaustSound"} )
+list.Set( "PHXPropellerSounds", "Gunship Rotors", { phx_propeller_soundname = "NPC_AttackHelicopter.Rotors"} )
+list.Set( "PHXPropellerSounds", "Gunship Rotors (Loud)", { phx_propeller_soundname = "NPC_AttackHelicopter.RotorsLoud"} )
+list.Set( "PHXPropellerSounds", "Gunship Rotors 2", { phx_propeller_soundname = "NPC_CombineGunship.RotorSound"} )
+list.Set( "PHXPropellerSounds", "Giant Fan (PORTAL)", { phx_propeller_soundname = "Portal.giant_fan"} )

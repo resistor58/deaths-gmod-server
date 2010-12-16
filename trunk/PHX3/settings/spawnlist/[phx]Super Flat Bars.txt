@@ -1,0 +1,28 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"[PHX] Super Flat Bars"
+	}
+	"Entries"
+	{
+		"1"		"models/Squad/sf_bars/sf_bar1.mdl"
+		"2"		"models/Squad/sf_bars/sf_bar2.mdl"
+		"3"		"models/Squad/sf_bars/sf_bar3.mdl"
+		"4"		"models/Squad/sf_bars/sf_bar4.mdl"
+		"5"		"models/Squad/sf_bars/sf_bar5.mdl"
+		"6"		"models/Squad/sf_bars/sf_bar6.mdl"
+		"7"		"models/Squad/sf_bars/sf_bar7.mdl"
+		"8"		"models/Squad/sf_bars/sf_bar8.mdl"
+		"9"		"models/Squad/sf_bars/sf_bar25x25x1.mdl"
+		"10"		"models/Squad/sf_bars/sf_bar25x25x2.mdl"
+		"11"		"models/Squad/sf_bars/sf_bar25x25x3.mdl"
+		"12"		"models/Squad/sf_bars/sf_bar25x25x4.mdl"
+		"13"		"models/Squad/sf_bars/sf_bar25x25x5.mdl"
+		"14"		"models/Squad/sf_bars/sf_bar25x25x6.mdl"
+		"15"		"models/Squad/sf_bars/sf_bar25x25x7.mdl"
+		"16"		"models/Squad/sf_bars/sf_bar25x25x8.mdl"
+		
+	}
+}

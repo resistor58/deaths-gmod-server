@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_carbine/carbine"
+	"$bumpmap" "models\weapons\v_carbine/carbine_normal"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	//"$phong" "1"
+	//"$phongexponent" "50"
+	//"$phongboost" ".5"
+	//"$phongfresnelranges"	"[.1 .3 .5]"
+	//"$phongexponenttexture" "models\weapons/v_carbine/carbine_phong"
+}

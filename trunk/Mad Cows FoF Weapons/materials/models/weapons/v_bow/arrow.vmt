@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_bow/arrow"
+"$alphatest" "1"
+"$nocull" 1
+
+}

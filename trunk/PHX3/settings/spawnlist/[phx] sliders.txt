@@ -1,0 +1,26 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"[PHX] Sliders"
+	}
+	"Entries"
+	{
+		"1"		"models/xeon133/slider/slider_12x12x12.mdl"
+		"2"		"models/xeon133/slider/slider_12x12x24.mdl"
+		"3"		"models/xeon133/slider/slider_12x12x48.mdl"
+		"4"		"models/xeon133/slider/slider_12x12x96.mdl"
+		"5"		"models/xeon133/slider/slider_bar_10x10x1152.mdl"
+		"6"		"models/xeon133/slider/slider_bar_10x10x144.mdl"
+		"7"		"models/xeon133/slider/slider_bar_10x10x1536.mdl"
+		"8"		"models/xeon133/slider/slider_bar_10x10x192.mdl"
+		"9"		"models/xeon133/slider/slider_bar_10x10x240.mdl"
+		"10"		"models/xeon133/slider/slider_bar_10x10x288.mdl"
+		"11"		"models/xeon133/slider/slider_bar_10x10x336.mdl"
+		"12"		"models/xeon133/slider/slider_bar_10x10x384.mdl"
+		"13"		"models/xeon133/slider/slider_bar_10x10x768.mdl"
+		"14"		"models/xeon133/slider/slider_bar_10x10x96.mdl"
+		"15"		"models/xeon133/slider/slider_stand_12x12x24.mdl"
+	}
+}

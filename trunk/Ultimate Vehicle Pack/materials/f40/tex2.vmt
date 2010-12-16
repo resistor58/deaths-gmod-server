@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "f40/tex2"
+	$envmap env_cubemap
+	$envmapmask "f40/texc"
+	$envmapcontrast 1
+        $model 1
+}

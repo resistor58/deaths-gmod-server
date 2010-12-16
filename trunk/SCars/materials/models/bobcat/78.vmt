@@ -1,0 +1,15 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/bobcat/78"
+	"$bumpmap" "models/bobcat/78_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" 	
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .3 .3 .3 ]"
+}

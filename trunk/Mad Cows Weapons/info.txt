@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Mad Cows Weapons"
+	"version"	"3.0"
+	"up_date"	"31th October 2009"
+	"author_name"	"Worshipper"
+	"author_email"	"Josephcadieux@hotmail.com"
+	"author_url"	""
+	
+	"info"		"Mad Cows Weapons"
+}

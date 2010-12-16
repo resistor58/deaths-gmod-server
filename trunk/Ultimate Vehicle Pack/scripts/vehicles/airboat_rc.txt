@@ -1,0 +1,127 @@
+// Airboat
+
+"vehicle"
+{
+	"wheelsperaxle"		"2"
+	"body"
+	{
+		"countertorquefactor"		"0.0"
+		"massCenterOverride"		"0 5 -10"
+		"massoverride"			"70"	// kg
+	}
+	"engine"
+	{
+		"horsepower"			"150"	
+		"maxrpm"			"6000"
+		"maxspeed"			"25"		// mph
+		"maxReverseSpeed"	"25"		// mph
+		"autotransmission"	"1"
+		"axleratio"			"3.85"
+		"gear"				"3.35"		// 1st gear
+		"shiftuprpm"			"6000"
+		"shiftdownrpm"			"0"
+	}
+	"steering"
+	{
+		"slowcarspeed"		"0"
+		"fastcarspeed"		"30"
+		"degreesSlow"		"40"
+		"degreesFast"		"40"
+		"slowSteeringRate"	"10"
+		"fastSteeringRate"	"4"
+		"steeringRestRateSlow"	"1"
+		"steeringRestRateFast"	"1"
+		"brakeSteeringRateFactor"	"0.25"
+		"throttleSteeringRestRateFactor"	"1"
+		"boostSteeringRestRateFactor"	"1"
+		"boostSteeringRateFactor"	"1"
+		"steeringExponent" "1.0"
+	}
+
+	// front axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"4"
+			"mass"			"8"
+			"inertia"		"0.5"
+			"damping"		"0"
+			"rotdamping"		"0.0"
+			"material"		"slidingrubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"50"
+			"springDamping"				"4"
+			"stabilizerConstant"			"100"
+			"springDampingCompression"		"4"
+			"maxBodyForce"				"625"
+		}
+
+		"torquefactor"	"0.5"
+		"brakefactor"	"0.5"
+	}
+
+	// rear axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"4"
+			"mass"			"8"
+			"inertia"		"0.5"
+			"damping"		"0"
+			"rotdamping"		"0.0"
+			"material"		"slidingrubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"50"
+			"springDamping"				"4"
+			"stabilizerConstant"			"100"
+			"springDampingCompression"		"4"
+			"maxBodyForce"				"625"
+		}
+		"torquefactor"	"0.5"
+		"brakefactor"	"0.5"
+	}
+}
+
+"vehicle_sounds"
+{
+	// List gears in order from lowest speed to highest speed
+	"gear"
+	{
+		"max_speed"		"0.5"
+		"speed_approach_factor" "0.06"
+    }
+	
+	"gear"
+	{
+		"max_speed"		"1.0"
+		"speed_approach_factor" "0.06"
+	}
+
+   "crashsound"
+	{
+		"min_speed"			"400"
+		"min_speed_change"	"300"
+		"sound"				"ATV_impact_medium"
+		"gear_limit"		"1"
+	}
+	
+	"crashsound"
+	{
+		"min_speed"			"500"
+		"min_speed_change"	"400"
+		"sound"				"ATV_impact_heavy"
+	}
+
+	"skid_lowfriction"	"Airboat_skid_smooth"
+	"skid_normalfriction"	"Airboat_skid_rough"
+	"skid_highfriction"	"Airboat_skid_rough"
+}
+
+
+

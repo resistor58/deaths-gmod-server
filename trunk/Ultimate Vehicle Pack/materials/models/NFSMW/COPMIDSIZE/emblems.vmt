@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\NFSMW\COPMIDSIZE/emblems"
+	$envmap	env_cubemap
+	"$translucent" 1
+	$model 1
+}

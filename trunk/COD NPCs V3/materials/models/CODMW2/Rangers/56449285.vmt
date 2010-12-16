@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\CODMW2\rangers\56449285"	
+ 	"$bumpmap" "models/CODMW2/rangers\56449285_n"
+
+"$basetexture" "models/bzucker/act_krovosos_new1"
+	"$halflambert" 1
+	"$bumpmap"	"models/bzucker/act_krovosos_new1_normal"
+	"$model" "1"
+//	"$ambientocclusiontexture" "models/bsucker/act_krovosos_new1_occ"
+	"$phong" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.10 0.10 0.10]"
+	"$phongexponent" "10"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "1"	 
+}

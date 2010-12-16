@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/rus/gear"
+	"$bumpmap" "models/player/rus/gear_n"
+ 	"$phong" "1"
+	"$phongexponent" "94.8"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

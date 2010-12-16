@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "impreza/gen-trd"
+        $model 1
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fishy/mini_glass"
+	"$translucent" 1
+	//"normalmapalphaenvmapmask" 1
+	"$surfaceprop" "glass"
+	
+	"$model" 1
+	//"$selfillum" 1
+	//"$envmapmask" "models/fishy/body_blue_mask"
+	//"$mostlyopaque" 1
+}

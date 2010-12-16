@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Borderlands/Bus/BusExterior1"
+	"$bumpmap" "models/Borderlands/Bus/Special/BusExterior1-BumpMap"
+}

@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/opforc/codopfor/Glasses"
+	
+
+// Specularity
+	"$envmapmask" "models/opforc/codopfor/Glasses_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}

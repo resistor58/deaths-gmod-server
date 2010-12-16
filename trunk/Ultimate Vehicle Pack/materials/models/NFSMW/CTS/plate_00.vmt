@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\NFSMW\CTS/plate_00"
+	"$translucent" 1
+	$model 1
+}

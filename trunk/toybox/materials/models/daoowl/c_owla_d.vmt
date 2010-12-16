@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/daoowl/c_owla_d"
+	"$bumpmap" "models/daoowl/c_owla_n"
+	"$alphatest" "1"
+}

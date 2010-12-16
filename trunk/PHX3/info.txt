@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"PhoeniX-Storms"
+	"version"	"SVN"
+	"up_date"	"12th August 2010"
+	"author_name"	"PhoeniX-Storms, 1/4 Life, Bzaraticus, hunter, joebloom, scragnog, x-quake, Xeon133, Squad, PelPix, Stigern, Alex Malkin, Cpl.Cookie"
+	"author_email"	"onequarterlife2@gmail.com"
+	"author_url"  	"http://www.phoenix-storms.com/"
+	"info"		"PhoeniX-Storms 3 SVN"
+}

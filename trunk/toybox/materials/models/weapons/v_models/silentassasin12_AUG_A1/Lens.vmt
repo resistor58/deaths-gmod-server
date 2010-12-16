@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\silentassasin12_AUG_A1\Lens"
+	"$envmap" "env_cubemap"
+	"$envmaptint" [.7 .7 .7]
+	"$no_draw" "1"
+}

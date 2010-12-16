@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "impreza/impreza_wheel1"
+        $model 1
+}

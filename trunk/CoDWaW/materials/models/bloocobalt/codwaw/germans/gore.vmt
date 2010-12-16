@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\CoDWaW\germans\/gore"
+	"$bumpmap" "models\bloocobalt\CoDWaW\germans\/gore_normal"
+	"$nocull" 1
+	"$halflambert" 1
+}

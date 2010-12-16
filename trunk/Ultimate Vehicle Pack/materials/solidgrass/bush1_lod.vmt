@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+        $basetexture "solidgrass/bush1_lod"
+	$alphatest 1
+        $model 1
+}

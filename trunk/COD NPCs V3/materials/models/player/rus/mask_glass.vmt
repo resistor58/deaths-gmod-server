@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/rus/mask_glass2"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/player/rus/mask_glass2"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+
+}

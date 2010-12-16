@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_axe/axe"
+	"$envmapmask" "models/Weapons/V_axe/axe_spec"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.7
+	"$envmapsaturation" 0
+	"$halflambert" 1
+	
+}

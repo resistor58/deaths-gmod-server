@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\zakhaev/head_zakhaev_beard_clr"
+	"$translucent" 1
+}

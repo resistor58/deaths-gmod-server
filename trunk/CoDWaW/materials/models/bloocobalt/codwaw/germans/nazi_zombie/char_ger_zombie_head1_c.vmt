@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\codwaw\germans\nazi_zombie\char_ger_zombie_head1_c"
+	"$bumpmap" "models\bloocobalt\codwaw\germans\nazi_zombie\char_ger_zombie_head1_n"
+	"$nocull" 1
+}

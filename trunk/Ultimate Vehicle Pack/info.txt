@@ -1,0 +1,17 @@
+"AddonInfo"
+{
+	"name"		"ULTIMATE VEHICLE PACK"
+	"version"	"1.0"
+	"up_date"	"Monday, October 27th, 2008"
+	"author_name"	"NPerez, Kobilica, Solid_Granite, Phoenix Storm, GiGaBiTe, kuno86, LSK, DarkNovaClan, Jake V"
+	"author_email"	"n/a"
+	"author_url"	"n/a"
+	
+	"info"		"5 Addons, 1 Pack Includes Kuno's, GMow, VMOD, and More!"
+	// Won't be active unless the following GCFs are available and
+	// are mounted
+	//"GCFRequires"
+	//{
+	//	"0"		"420"
+	//}
+}

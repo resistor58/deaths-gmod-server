@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "solidtrk/crazy"
+        $model 1
+}

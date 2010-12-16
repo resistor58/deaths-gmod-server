@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "Models/Halo2Hogv7/tires"
+	"$bumpmap" "Models/Halo2Hogv7/tires_bump"
+	"$surfaceprop" "rubber"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.1 .1 .1]"	
+	"$halflambert" 1
+}

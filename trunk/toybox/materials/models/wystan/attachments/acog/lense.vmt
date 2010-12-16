@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\wystan\attachments\acog\lense"
+	"$bumpmap" "models\wystan\attachments\acog\lense norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

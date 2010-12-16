@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\zakhaev/head_zakhaev_clr"
+	"$bumpmap" "models\zakhaev/head_zakhaev_nml"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.1 0.2 2]"
+	"$halflambert" "1"
+
+}

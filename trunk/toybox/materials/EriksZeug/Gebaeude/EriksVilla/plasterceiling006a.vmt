@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "plaster/plasterceiling006a"
+	"$surfaceprop"  "plaster"
+
+	"%keywords" "c17skyscraper"
+}

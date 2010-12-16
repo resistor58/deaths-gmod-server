@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "tile/tilefloor013a"	
+	"$surfaceprop" "tile"
+	"$bumpmap" "tile/tilefloor013a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	//"$envmaptint" "[ .75 .75 .75]"
+
+	"vertexlitgeneric_dx8"
+	{
+		"$envmaptint" "[ .8 .8 .8 ]"
+	}
+ 		
+
+	"vertexlitgeneric_hdr_dx9"
+ 	{
+  		"$envmaptint" "[.33 .33 .33]"
+ 	}
+
+
+}

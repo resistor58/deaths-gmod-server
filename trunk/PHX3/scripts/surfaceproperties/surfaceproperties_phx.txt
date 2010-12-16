@@ -1,0 +1,92 @@
+//PhoeniX-Storms 2
+"gm_torpedo"
+{
+	"base"		"canister"
+	"density"	"600"
+	"friction"	"0.5"
+	"elasticity"	"0.2"
+	"impacthard"	"Canister.ImpactHard"
+	"impactsoft"	"Canister.ImpactSoft"
+	"scraperough"	"Canister.ScrapeRough"
+	"scrapesmooth"	"Canister.ScrapeSmooth"
+	"roll"		"Canister.Roll"
+}
+//Wooden Wheels
+"gm_ps_woodentire"
+{
+	"base"		"Wood"
+	"density"	"550"
+	"elasticity"	"0.2"
+	"friction"	"1.0"
+
+	"stepleft"		"Wood.StepLeft"
+	"stepright"		"Wood.StepRight"
+	"bulletimpact"	"Wood.BulletImpact"
+	"scraperough"	"Wood.ScrapeRough"
+	"scrapesmooth"	"Wood.ScrapeSmooth"
+	"impacthard"	"Wood.ImpactHard"
+	"impactsoft"	"Wood.ImpactSoft"
+
+	"strain"		"Wood.Strain"
+	"break"			"Wood.Break"
+
+	"audioreflectivity" "0.33"
+	"audiohardnessfactor" "0.25"
+
+}
+//Metallic wheels
+"gm_ps_metaltire"
+{
+	"density"	"2500"
+	"elasticity"	"0.1"
+	"audioreflectivity" "0.83"
+	"friction"	"1.0"
+	"stepleft"	"SolidMetal.StepLeft"
+	"stepright"	"SolidMetal.StepRight"
+	"impacthard"	"PhxMetal.ImpactHard"
+	"impactsoft"	"PhxMetal.ImpactHard"
+	"scraperough"	"SolidMetal.ScrapeRough"
+	"scrapesmooth"	"SolidMetal.ScrapeSmooth"
+	"bulletimpact"	"SolidMetal.BulletImpact"
+
+	"strain"		"SolidMetal.Strain"
+
+	"gamematerial"	"M"
+}
+"gm_ps_soccerball"
+{
+	"base"		"rubbertire"
+	"elasticity"	"80"
+	"friction"	"0.2"
+	"density"	"4500"
+}
+"phx_rubbertire"
+{
+	"base"			"rubber"
+
+	"bulletimpact"	"Rubber_Tire.BulletImpact"
+	"impacthard"	"Rubber_Tire.ImpactHard"
+	"impactsoft"	"Rubber_Tire.ImpactSoft"
+
+	"strain"		"Phx_Rubber_Tire.Strain"
+	
+	"scraperough"	"Phx_Rubber_Tire.Strain"
+	"scrapesmooth"	"Phx_Rubber_Tire.Strain"
+
+	"friction"		"3.0"
+}
+"phx_rubbertire2"
+{
+	"base"			"rubber"
+
+	"bulletimpact"	"Rubber_Tire.BulletImpact"
+	"impacthard"	"Rubber_Tire.ImpactHard"
+	"impactsoft"	"Rubber_Tire.ImpactSoft"
+
+	"strain"		"Phx_Rubber_Tire.Strain"
+	
+	"scraperough"	"Phx_Rubber_Tire.Strain"
+	"scrapesmooth"	"Phx_Rubber_Tire.Strain"
+
+	"friction"		"5.0"
+}

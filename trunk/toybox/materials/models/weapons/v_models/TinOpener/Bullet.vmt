@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\Kfu.Tin_Opener\Bullet"
+	"$bumpmap" "models\weapons\v_models\Kfu.Tin_Opener\Bullet_Norm"
+	"$envmap" "env_cubemap"
+	"$phong" "1"
+"$phong" "1"
+"$phongexponent" "33"
+"$phongboost" "1"
+"$phongfresnelranges" "[0.4 0.2 5]"
+"$halflambert" "1"
+"$phongalbedotint" "1"
+}

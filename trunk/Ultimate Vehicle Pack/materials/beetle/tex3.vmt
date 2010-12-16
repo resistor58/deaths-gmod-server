@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	$basetexture "beetle/tex3"
+	$model 1
+	"$bumpmap" "beetle/texBUMP"
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"Models\Weapons\V_Models\mw_m4\mw2_red_dot_sight_lense"
+	"$bumpmap"           "Models\Weapons\V_Models\mw_m4\mw2_red_dot_sight_lense_normal"
+                "$translucent" "1"
+                "$additive" "1"
+                "$model" "1"	
+}

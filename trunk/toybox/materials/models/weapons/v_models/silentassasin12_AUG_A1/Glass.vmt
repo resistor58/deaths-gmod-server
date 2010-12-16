@@ -1,0 +1,10 @@
+VertexLitGeneric
+{	
+	
+	"$basetexture" "models\weapons\v_models\silentassasin12_AUG_A1\Glass"
+	"$bumpmap" "models\weapons\v_models\silentassasin12_AUG_A1\Glass_norm"
+ 	"$translucent" "1"
+	"$normalmapalphaenvmapmask" 1
+	
+
+}

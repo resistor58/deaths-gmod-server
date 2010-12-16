@@ -1,0 +1,246 @@
+
+AddCSLuaFile( "cl_init.lua" )
+AddCSLuaFile( "shared.lua" )
+
+
+function ENT:SpawnFunction( ply, tr )
+
+	if ( !tr.Hit ) then return end
+	
+	local SpawnPos = tr.HitPos + tr.HitNormal * 16
+	
+	local ent = ents.Create( "sent_nuke" )
+	ent:SetPos( SpawnPos )
+	ent:Spawn()
+	ent:Activate()
+	
+	return ent
+	
+end
+
+function ENT:Initialize()
+
+
+local ent = self.Entity
+
+	ent:SetMoveType( MOVETYPE_NONE )
+	ent:DrawShadow( false )
+	
+	ent:SetCollisionBounds( Vector( -20, -20, -10 ), Vector( 20, 20, 10 ) )
+	ent:PhysicsInitBox( Vector( -20, -20, -10 ), Vector( 20, 20, 10 ) )
+	
+	local phys = ent:GetPhysicsObject()
+	if (phys:IsValid()) then
+		phys:EnableCollisions( false )		
+	end
+
+	ent:SetCollisionGroup( COLLISION_GROUP_DEBRIS_TRIGGER )
+	ent:SetTrigger( true )
+	ent:SetNotSolid( true )
+	
+	util.PrecacheModel("models/player/charple01.mdl")
+
+	--self.Yield = ent:GetVar("yield",100)/100
+	self.Yield = 1
+	self.YieldSlow = self.Yield^0.75
+	self.YieldSlowest = self.Yield^0.5
+	self.WaveResolution = 1
+	IgnoreRagdoll = true
+
+	self.SplodePos = ent:GetPos() + Vector(0,0,256)
+
+	self.Owner = Entity(1)
+	
+	--remove this ent after awhile
+	ent:Fire("kill","","19")
+	
+	--nuke em
+	local blastradius = 2400*self.Yield
+	--util.BlastDamage(self.Owner:GetActiveWeapon(), self.Owner, self.SplodePos, blastradius, 4096*self.Yield)
+	
+	
+	--simulate blast wave
+	
+	local blastime = 3.5
+	
+	local hurt = ents.Create("point_hurt")
+	hurt:SetVar("isnuke",true)
+	hurt:SetKeyValue("Damage",9000)
+	hurt:SetKeyValue("DamageRadius",256)
+	hurt:SetKeyValue("DamageDelay",0.4)
+	hurt:SetKeyValue("DamageType",512)
+	
+	hurt:SetPos(self.SplodePos)
+	hurt:Spawn()
+	hurt:Fire("TurnOn","",0)
+	hurt:Fire("TurnOff","",blastime)
+	hurt:Fire("kill","",blastime + 0.2)
+	
+	
+	for i=1,math.ceil(blastime/self.WaveResolution) do
+	
+		hurt:Fire("AddOutput","DamageRadius "..tostring(i*3500*self.WaveResolution),self.WaveResolution)
+
+	end
+	
+
+if SERVER then
+	local shake = ents.Create("env_shake")
+	shake:SetKeyValue("amplitude", "16")
+	shake:SetKeyValue("duration", "6")
+	shake:SetKeyValue("radius", 6000*self.Yield)
+	shake:SetKeyValue("frequency", "240")
+	shake:SetPos(self.SplodePos)
+	shake:Spawn()
+	shake:Fire("StartShake","","0.6")
+	shake:Fire("kill","","8")
+
+	for key,found in pairs(ents.FindInSphere(self.SplodePos,blastradius)) do
+
+		if found:GetClass() == "npc_strider" then --if we've hit a strider...
+			local dispvec = (self.SplodePos- found:GetPos())
+			found:SetVelocity(dispvec*(dispvec:Length()^-2)*5000*self.YieldSlowest)
+			found:Fire("break","","1") --splode it
+		end
+	
+	end
+end
+
+  local effectdata = EffectData()
+  effectdata:SetOrigin( ent:GetPos() )
+  effectdata:SetMagnitude( 8 )
+  effectdata:SetScale( 1 )
+  effectdata:SetRadius( 16 )
+  util.Effect( "nuke_effect_ground", effectdata )
+ 
+	
+end
+
+function ENT:Think()
+
+
+end
+
+local HumanModels = {
+
+"models/Humans/",
+"models/player/",
+"models/zombie",
+"[Pp]olice.mdl",
+"[Ss]oldier",
+"[Aa]lyx.mdl",
+"[Bb]arney.mdl",
+"[Bb]reen.mdl",
+"[Ee]li.mdl",
+"[Mm]onk.mdl",
+"[Kk]leiner.mdl",
+"[Mm]ossman.mdl",
+"[Oo]dessa.mdl",
+"[Gg]man"
+
+}
+
+
+function GetSpecs(entity)
+
+entity = entity or false
+
+local enttable = {}
+enttable.ent = entity
+enttable.player = false
+enttable.npc = false
+enttable.humanoid = false
+enttable.type = ""
+
+if not entity or not entity:IsValid() then
+	enttable.valid = false
+	enttable.movetype = 0
+	return enttable
+end
+
+enttable.movetype = entity:GetMoveType()
+enttable.valid = (enttable.movetype == 2 or enttable.movetype == 3 or enttable.movetype == 5 or enttable.movetype == 6 or enttable.movetype == 9)
+
+if not enttable.valid then return enttable end
+
+enttable.type = entity:GetClass()
+
+local ragdoll = string.find(enttable.type,"ragdoll") ~= nil
+
+if IgnoreRagdoll and ragdoll then
+	enttable.valid = false
+	return enttable
+end
+
+enttable.player = entity:IsPlayer()
+if enttable.player then
+
+	enttable.humanoid = true
+	return enttable
+
+end
+
+enttable.npc = entity:IsNPC()
+
+if enttable.npc or ragdoll then
+	local entmodel = entity:GetModel()
+
+	if entmodel then
+		for k,model in pairs(HumanModels) do
+			if string.find(entmodel,model) ~= nil then
+				enttable.humanoid = true
+				break
+			end
+		end
+	end
+end
+
+
+return enttable
+
+end
+
+
+function char(ent)
+
+	if SERVER then
+		ent:SetModel("models/player/charple01.mdl")
+		
+		if ent:IsPlayer() then
+			ent:Kill()
+		else
+			ent:Fire("sethealth","0","0")
+			--ent:Input( string "sethealth", self.Owner, self.Owner:GetActiveWeapon(), 0)
+		end
+	end
+	
+
+end
+
+
+
+
+function DoChar( victim, killer, weapon )
+
+	if killer:GetVar("isnuke",false) or victim:GetVar("isnuke",false) then
+	
+		if GetSpecs(victim).humanoid then
+			char(victim)
+		end
+		
+	end 
+   
+end
+hook.Add("OnNPCKilled","nuke_char_npc",DoChar)
+hook.Add("PlayerDeath","nuke_char_player",DoChar)
+
+--[[
+function ENT:OnRemove()
+
+end
+
+function ENT:Touch(entity)
+
+end
+]]--
+include('shared.lua')

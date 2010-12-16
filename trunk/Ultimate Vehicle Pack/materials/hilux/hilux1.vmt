@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "hilux/hilux1"
+        $model 1
+}

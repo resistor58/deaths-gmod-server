@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\CoDWaW\zombies/nazi_zombie_eye"
+	"$selfillum" 1
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/daowolf/c_wolfa_0d"
+	"$bumpmap" "models/daowolf/c_wolfa_0n"
+
+	"$halflambert" "1"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost" "3"
+	"$phongfresnelranges"	"[0.5 5 30]"
+}

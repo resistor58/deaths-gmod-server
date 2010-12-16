@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\peterboi\Mazda_rx-8\none"
+	"$translucent" "1"
+}

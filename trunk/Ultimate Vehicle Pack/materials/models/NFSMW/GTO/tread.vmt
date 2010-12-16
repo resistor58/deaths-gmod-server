@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/tread"
+	//$surfaceprop	"rubbertire"
+	$model		1
+}

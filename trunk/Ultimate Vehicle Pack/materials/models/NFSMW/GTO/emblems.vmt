@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/emblems"
+	$envmap		"env_cubemap"
+	//$surfaceprop	"plastic"
+	$translucent	1
+	$model		1
+}

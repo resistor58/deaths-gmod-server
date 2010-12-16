@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/rus/met_black"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/player/rus/met_black_n"
+	"$phong" "1"
+	"$phongboost" "1"	
+	"$phongexponent" "4.8"
+	"$phongfresnelranges"	"[.15 .45 1]"
+	"$phongalbedotint" "1"
+}

@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/sabregt/sabregt_badges"
+	"$translucent" "1"
+	"$decal" "1"
+}

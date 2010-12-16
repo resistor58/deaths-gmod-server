@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/taillight"
+	$envmap		"env_cubemap"
+	//$surfaceprop	"plastic"
+	$model		1
+}

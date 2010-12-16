@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Left 4 Dead 2 Models"
+	"version"			"1.0"
+	"up_date"			"October 28th 2009"
+	"author_name"			"Valve"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Models and their materials from Left 4 Dead 2"
+}

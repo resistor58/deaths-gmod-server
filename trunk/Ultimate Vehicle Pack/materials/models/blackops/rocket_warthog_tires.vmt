@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "models/blackops/rocket_warthog_tires"
+	"$surfaceprop" "rubber"
+	"$bumpmap" "models/blackops/warthog_tires_normal" 
+}

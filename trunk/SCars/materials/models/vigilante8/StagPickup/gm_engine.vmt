@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models\vigilante8\StagPickup\gm_engine"
+	$bumpmap "Models/vigilante8/Stagpickup/flat_normal"
+//	"$phong" "1" 
+	"$phongboost" "2"  
+	"$phongfresnelranges" "[.3 .5 1]"
+
+//	"$envmap" "env_cubemap"
+	"$envmapfrensel" "1"
+	"$envmaptint" "[.2 .2 .2]"
+//	"$normalmapalphaenvmapmask" 1
+
+
+	"360?$color2" "[ 0.6 0.6 0.6 ]"
+
+}

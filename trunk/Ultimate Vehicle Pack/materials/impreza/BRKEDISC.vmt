@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+        $basetexture "impreza/BRKEDISC"
+	"$envmap" "env_cubemap" 
+        $model 1
+}

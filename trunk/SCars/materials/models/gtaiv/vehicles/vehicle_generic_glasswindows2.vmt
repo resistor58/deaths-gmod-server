@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles/vehicle_generic_glasswindows2"
+	"$translucent" 1
+
+}

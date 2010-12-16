@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\COPMIDSIZE/headlight"
+	//$envmap	env_cubemap
+	$model		1
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/v_whiskey/whiskey"
+
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	//"$phongexponent" "10"
+	"$phongboost" "1.5"
+	"$phongexponenttexture" "models\weapons\v_whiskey/whiskey_exp"
+	"$phongfresnelranges"	"[.1 .4 .7]"
+
+}
