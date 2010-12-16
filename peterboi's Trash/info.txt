@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Peterboi’s Trash"
+	"version"			"1.0"
+	"up_date"			""
+	"author_name"		"peterboi"
+	"author_email"		""
+	"author_url"		""
+	"info"				"Add Trash made by peterboi”
+	"override"			"0"
+}

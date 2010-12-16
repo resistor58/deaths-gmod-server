@@ -1,0 +1,41 @@
+// Phoenix-Storms 2 Sounds.
+// FIXME: Find some way to load this without overriding game_sounds_manifest.txt
+"HeavyMetal.ImpactHard"
+{
+	"soundlevel"		"SNDLVL_70dB"
+	"pitch"		"95,100"
+	"volume"		"1.0"
+	"rndwave"
+	{
+		"wave"		"phx/hmetal1.wav"
+		"wave"		"phx/hmetal2.wav"
+		"wave"		"phx/hmetal3.wav"
+
+	}
+}
+
+
+"HeavyMetal.ImpactSoft"
+{
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"		"95,100"
+	"volume"		"0.6"
+	"rndwave"
+	{
+		"wave"		"phx/hmetal1.wav"
+		"wave"		"phx/hmetal2.wav"
+		"wave"		"phx/hmetal3.wav"
+	}
+}
+
+
+"Egg.Crack"
+{
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"		"95,100"
+	"volume"		"1.0"
+	"rndwave"
+	{
+		"wave"		"phx/eggcrack.wav"
+	}
+}

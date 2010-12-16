@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mw2/makarov/dominik_head"
+	"$bumpmap" "models\mw2/makarov/makarov_head_norm"
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+}

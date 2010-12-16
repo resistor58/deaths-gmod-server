@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cod4/vip/vip_pres_clr"
+	"$bumpmap" "models\cod4/vip/vip_pres_nml"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.3"	
+	"$phongfresnelranges"	"[0.1 1 9]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+}

@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/bobcat/bobcat_badges"
+	"$decal" "1"
+	"$translucent" "1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\glock_30\suppressor"
+	"$envmap" "env_cubemap"
+	"$envmapmask"  "models\weapons\v_models\glock_30\suppressor_ref"	
+}

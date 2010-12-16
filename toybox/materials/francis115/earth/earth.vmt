@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "francis115/earth/earth"
+	"$bumpmap" "francis115/earth/earth_bump"
+	"$surfaceprop" "rock"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "150"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}
+

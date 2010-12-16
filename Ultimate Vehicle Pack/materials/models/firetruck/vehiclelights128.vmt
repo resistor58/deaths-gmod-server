@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "models/firetruck/vehiclelights128"
+	$envmapcontrast 1
+}

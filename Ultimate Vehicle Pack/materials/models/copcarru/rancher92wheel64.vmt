@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+
+	$envmapcontrast 1
+        $basetexture "models\copcarru\rancher92wheel64"
+}

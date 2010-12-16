@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/opforc/codopfor/mask"
+        "$bumpmap" "models/opforc/codopfor/mask_n"
+        "$phong" 		"1"
+	"$phongboost" 		"1"
+	"$phongfresnelranges" 	"[1 1 1]"
+	"$phongexponent" 	"10"
+	"$phongalbedotint" 	"1"
+        "$phongexponenttexture" "models\opfor\codopfor/mask_n"
+// 	"$halflambert" "1"
+
+}
+

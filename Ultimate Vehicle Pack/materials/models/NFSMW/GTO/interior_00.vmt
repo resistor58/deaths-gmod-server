@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/interior_00"
+	//$surfaceprop	"carpet"
+	$model		1
+}

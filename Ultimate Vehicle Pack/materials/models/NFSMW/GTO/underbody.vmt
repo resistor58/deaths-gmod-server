@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/underbody"
+	//$surfaceprop	"metalvehicle"
+	$model		1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/belair/tirelm"
+	"$nocull" 1
+}

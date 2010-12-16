@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/V_pistol/v_pistol_sheet"
+	"$bumpmap" "Models/Weapons/V_pistol/v_pistol_sheet_normal"
+}

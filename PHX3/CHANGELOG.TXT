@@ -1,0 +1,172 @@
+====================================[ 12 - August - 2010 ]===============================================
+[FIXED] Renamed gmod_propeller to phx_propeller to avoid conflicts with other propeller addons
+
+-Bzaraticus
+=========================================================================================================
+
+
+====================================[ 12 - August - 2010 ]===============================================
+[FIXED] Duplicator not working for propeller stool
+[FIXED] Changelog layout
+
+-Bzaraticus
+=========================================================================================================
+
+
+====================================[ 18 - June - 2010 ]=================================================
+[ADDED] Propeller Stool made by Bzaraticus. Try it out! It's awesome :D
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================
+
+
+====================================[ 16 - May - 2010 ]==================================================
+[ADDED] Few new Thruster sound effects has been added. Like Jet and turbine.
+[CHANGED] The sounds are now played from the script file. they also have distance dynamics changing.
+If there's a far thruster sound you'll notice a different sound.
+[FIXED] Metal wheel now plays custom metal sound which is not that good but I'll fix it later.
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================
+
+
+====================================[ 30 - November - 2009 ]=============================================
+[ADDED] New Thruster Sound effects has been added :) I hope you like them :)
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================
+
+
+====================================[ 22 - September - 2009]=============================================
+[ADDED] Metallic materials Phong and Phong + Cubemap. (Request by  Glt |. Lawliet)
+[ADDED] Carbon fiber materials Phong and Phong + Cubemap. (Request by  =GSMA= | Cre8or)
+[ADDED] Plastic materials Phong and Phong + Cubemap.
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================
+
+
+====================================[ 22 - June - 2009]==================================================
+[ADDED] XQM's rail pack.
+=========================================================================================================
+
+
+====================================[ 27 - December - 2008]==============================================
+[ADDED] Sliders for railroads, due to the physics engine limitation where my train wheels goes/fells inside
+the terrain on certain speeds, I decided to put some static shapes like the one you see in gm_botmap.
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================
+
+
+====================================[ 17 - July - 2008]==================================================
+[ADDED] Customized version of the Garry's Mod water fix; what better way to force it on the masses?
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 17 - July - 2008]==================================================
+[ADDED - BIG] XQM's Roller Coaster Pack
+
+-x-quake
+=========================================================================================================
+
+
+====================================[ 18 - June - 2008]==================================================
+[ADDED] XQM's first Wiremod model set. ;  .txt file in Data folder for use with wiremod models
+is open for anyone to use. Use the same format as already there.
+
+-x-quake
+=========================================================================================================
+
+
+====================================[ 1 - June - 2008]===================================================
+[ADDED] Offroad Wheels
+
+-Xeon133
+=========================================================================================================
+
+
+====================================[ 27 - May - 2008]===================================================
+[ADDED] Kamun's first of many models.
+
+-1/4 Life (Kamun)
+=========================================================================================================
+
+
+====================================[ 20 - May - 2008]===================================================
+[ADDED] GM_PS_HugeFlatConstruct_SVN (v1), ~30 MB.
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 27 - April - 2008]=================================================
+[ADDED] 4 Tiled models: Platehole4x4.
+[FIXED] Even more Spawnlist Re-Organization (Mostly Tiled).
+
+-hunter
+=========================================================================================================
+
+
+====================================[ 26 - April - 2008]=================================================
+[FIXED] Spawnlist Re-Organization.
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 25 - April - 2008]=================================================
+[CHANGED] Redid the Spawnlists.
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 24 - April - 2008]=================================================
+[ADDED] System for automatic spawnlist deletion/refresh.
+[ADDED - BIG] XQM Model Pack
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 23 - April - 2008]=================================================
+PhoeniX-Storms: LOL
+PhoeniX-Storms: the changelog is supposed to g oup, not down :P hehe
+PhoeniX-Storms: It's not a problem ;)
+
+[FIXED] Fixed Changelog order.
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 22 - April - 2008]=================================================
+[FIXED] PHX Seat 1 Animations + View.
+[FIXED] PHX Seat 2 Animations + View.
+[FIXED] PHX Seat 3 Animations + View.
+[FIXED] FSD Overrun Animations + View.
+[ADDED] Bunker Model to the SpawnList
+[ADDED] New Track Models to the SpawnList
+
+-1/4 Life
+=========================================================================================================
+
+
+====================================[ 20 - April - 2008  and before ]====================================
+[ADDED] Bunker Model "models\props_phx\misc\bunker01.mdl". So.... "BUNKER FTW!!!!!"  ( For The War ) ;)
+[ADDED] New concrete textures (for bunker).
+[ADDED] Moped tire. ;)
+[ADDED] Phong effect on some textures.
+[ADDED] Potato gun kit with potato and explosive can.
+[CHANGED] Wood texture to a bright wood to make it look a bit more realistic.
+[CHANGED] Metal place texture to make it look more cool :P
+[CHANGED] Plastic to Marble on the plastic panels, "Hunter" made a better and more extended set :)
+
+[ADDED - BIG] Entire Tiled Building Blocks pack.
+[ADDED - BIG] Entire Primitive Mechanics pack.
+
+-=[PhoeniX-Storms]=-
+=========================================================================================================

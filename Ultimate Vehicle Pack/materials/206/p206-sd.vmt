@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+        $basetexture "206/p206-sd"
+	$envmap env_cubemap
+	"$envmaptint" "[.4 .4 .4]" 
+        $model 1
+}

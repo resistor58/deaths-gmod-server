@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/Weapons/V_coltnavy/bullet"
+	"$envmap" "env_cubemap"
+
+	"$envmapcontrast" 0.5
+	"$envmapsaturation" "[.2 .2 .2]"
+}

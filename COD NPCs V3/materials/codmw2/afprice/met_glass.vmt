@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "codmw2/afprice/met_glass"
+	"$translucent" 1
+}

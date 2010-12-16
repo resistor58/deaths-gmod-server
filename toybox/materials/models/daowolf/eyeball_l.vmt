@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/daowolf/eyeball_l"
+	"$iris" "models/daowolf/pupil"
+	"$halflambert" "1"
+
+}

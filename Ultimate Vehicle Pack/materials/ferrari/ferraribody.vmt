@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$model" 1
+	"$nocull" 1
+	"$basetexture" "ferrari/ferraribody"
+}

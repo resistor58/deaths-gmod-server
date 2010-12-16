@@ -1,0 +1,9 @@
+es[2]"
+}
+Equals
+{
+srcVar1 $BurnLevel
+resultVar $detailblendfactor
+}
+}
+}

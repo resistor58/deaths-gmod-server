@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"RadioMod09"
+	"version"			"1.0 (2009)"
+	"up_date"			"Today"
+	"author_name"		"Prophet"
+	"author_email"		"Radio that plays Songs"
+	"author_url"		""
+	"info"				""
+	"override"			"0"
+}

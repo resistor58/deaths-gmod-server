@@ -1,0 +1,22 @@
+"AddonInfo"
+{
+	"name"		"NPC Control"
+	"version"	"2.0.1"
+	"up_date"	"April 4, 2008"
+	"author_name"	"Benjy355"
+	"author_url"   "http://www.roflbox.org/"
+
+	//Email me about bugs, FOR THE LOVE OF GOD EMAIL ME ABOUT BUGS! Don't post them on forums, waste of posting
+	//And it causes me to have to edit my post to show that I updated it, preventing me from effectively notifying
+	//others of the update.
+
+	"author_email"	"benjy355@gmail.com"
+	
+	"info"		"An assortment of STools used to control and manipulate NPCs and Actors"
+
+	"GCFRequires"
+	{
+      //Removed, lol
+		//"0"	"220"
+	}
+}

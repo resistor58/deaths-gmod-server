@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\codwaw\germans\/ger_facemap_volks_1"
+	"$bumpmap" "models\bloocobalt\codwaw\germans\/ger_facemap_normal_2"
+	"$halflambert" 1
+	"$nocull" 1
+}

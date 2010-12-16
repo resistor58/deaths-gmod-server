@@ -1,0 +1,5 @@
+cVar1 $BurnLevel
+resultVar $detailblendfactor
+}
+}
+}

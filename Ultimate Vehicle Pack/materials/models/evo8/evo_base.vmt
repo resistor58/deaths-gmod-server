@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/evo8/evo_base"
+//	"$translucent" 1
+	"$envmap" "env_cubemap"
+//	"$envmaptint" "[ 0.8 0.8 0.8 ]"
+	"$envmapmask" "models/evo8/evo_ref"
+	"$nocull" 1
+}

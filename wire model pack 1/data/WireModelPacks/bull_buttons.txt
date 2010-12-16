@@ -1,0 +1,40 @@
+"ModelPack"
+{
+
+	"Bull Button"
+	{
+		"categories"	"dynamic_button"
+		"model"		"models/bull/dynamicbutton.mdl"
+	}
+
+	"Bull Button Medium"
+	{
+		"categories"	"dynamic_button"
+		"model"		"models/bull/dynamicbuttonmedium.mdl"
+	}
+
+	"Bull Button Flat"
+	{
+		"categories"	"dynamic_button"
+		"model"		"models/bull/dynamicbuttonflat.mdl"
+	}
+
+	"Bull Button small"
+	{
+		"categories"	"dynamic_button_small"
+		"model"		"models/bull/dynamicbutton_small.mdl"
+	}
+
+	"Bull Button Flat small"
+	{
+		"categories"	"dynamic_button_small"
+		"model"		"models/bull/dynamicbuttonflat_small.mdl"
+	}
+    
+	"Bull Button Medium small"
+	{
+		"categories"	"dynamic_button_small"
+		"model"		"models/bull/dynamicbuttonmedium_small.mdl"
+	}
+
+}

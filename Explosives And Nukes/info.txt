@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Explosives Entities List"
+	"version"			"1.5"
+	"up_date"			""
+	"author_name"			"Nuke and TNT by Teta_Bonita, Atomic Bomb by Doomsday, Model Changes by Sgt.Napalm and Hamster, Entities list and Spawn Icons by Sgt.Napalm"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Blow Shit Up!"
+	"override"			"0"
+}

@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/CODMW2/rangers/ct_urban_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/CODMW2/rangers/ct_urban_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}

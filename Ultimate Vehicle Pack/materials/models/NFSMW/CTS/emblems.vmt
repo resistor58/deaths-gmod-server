@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\NFSMW\CTS/emblems"
+	$envmap	env_cubemap
+	"$translucent" 1
+	$model 1
+}

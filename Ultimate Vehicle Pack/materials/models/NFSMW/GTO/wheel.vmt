@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/wheel"
+	//$surfaceprop	"plastic"
+	$nocull		1
+	$model		1
+}

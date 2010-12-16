@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\CTS/wheel"
+	$nocull		1
+	$model		1
+}

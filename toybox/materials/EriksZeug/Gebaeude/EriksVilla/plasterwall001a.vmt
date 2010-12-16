@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "erikszeug/texturen/plaster/plasterwall001a"
+	"$surfaceprop" "plaster"
+	"%keywords" "secret_bunker,erik"
+	"$bumpmap" "erikszeug\texturen\plaster/plasterwall001a_bump"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .5
+	"$envmaptint" "[ .25 .25 .25 ]"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mw2/makarov/makarov_gloves"
+	"$bumpmap" "models\mw2/makarov/makarov_gloves_norm"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+}

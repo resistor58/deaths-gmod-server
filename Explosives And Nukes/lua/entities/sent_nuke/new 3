@@ -1,0 +1,16 @@
+
+
+NUKE = {}
+NUKE.VARFUNCS = {}
+ 
+ 
+ 
+function ENT:AddNukeCVar(var,name)
+
+	NUKE.VARFUNCS[name] = function(player, command, arguments)
+		self[var] = arguments[1]
+	end
+
+concommand.Add(name, NUKE.VARFUNCS[name])
+
+end

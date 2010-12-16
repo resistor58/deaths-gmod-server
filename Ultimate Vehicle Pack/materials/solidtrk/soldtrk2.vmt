@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "solidtrk/soldtrk2"
+        $model 1
+}

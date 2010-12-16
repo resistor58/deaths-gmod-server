@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Garry's Mod"
+	{
+		"Gm_Ps_HugeFlatConstruct_SVN"
+		{
+			"Credits"	"1/4 Life, Garry"
+			"Material"	"maps/gm_ps_hugeflatconstruct_svn"	
+		}
+	}
+	
+}

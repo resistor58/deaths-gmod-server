@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models\Weapons\V_Models\mw_m4\mw2_red_dot_sight"
+	"$bumpmap" "Models\Weapons\V_Models\mw_m4\mw2_red_dot_sight_normal"
+                "$phong" "1"
+                "$phongboost" "1"
+                "$phongfresnelranges" "[1 8 6]"
+                "$phongexponenttexture" "Models\Weapons\V_Models\mw_m4\mw2_red_dot_sight_spec"
+                "$phongalbedotint" "1"
+                "$halflambert" "1"
+}
+
+

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/rus/mask_face"
+	"$bumpmap" "models/player/rus/mask_face_n"
+ 	"$phong" "1"
+	"$phongexponent" "4.8"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

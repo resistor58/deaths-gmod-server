@@ -1,0 +1,20 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"[PHX] Super Flat Triangles"
+	}
+	"Entries"
+	{
+		"1"		"models/Squad/sf_tris/sf_tri1x1.mdl"
+		"2"		"models/Squad/sf_tris/sf_tri2x2.mdl"
+		"3"		"models/Squad/sf_tris/sf_tri3x3.mdl"
+		"4"		"models/Squad/sf_tris/sf_tri4x4.mdl"
+		"5"		"models/Squad/sf_tris/sf_tri5x5.mdl"
+		"6"		"models/Squad/sf_tris/sf_tri6x6.mdl"
+		"7"		"models/Squad/sf_tris/sf_tri7x7.mdl"
+		"8"		"models/Squad/sf_tris/sf_tri8x8.mdl"
+		
+	}
+}

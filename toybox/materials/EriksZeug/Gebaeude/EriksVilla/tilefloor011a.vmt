@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "tile/tilefloor011a"
+	"$surfaceprop" "tile"
+	"$bumpmap" "tile/tilefloor011a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.2 0.6 1]"
+}

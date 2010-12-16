@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "Models/Halo2Hogv7/warthog_standard"
+	"$bumpmap" "Models/Halo2Hogv7/warthog_standard_bump" 
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "3"
+	"$phongfresnelranges"	"[.25 .5 .7]"
+	"$halflambert" 1
+}
+

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mw2/cop/flashbang"
+	"$bumpmap" "models\mw2/cop/flashbang_n"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "11"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ballpterodactyl/pterodactyl_d"
+	"$bumpmap" "models/ballpterodactyl/pterodactyl_n"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+
+	"$alphatest" "1"
+}

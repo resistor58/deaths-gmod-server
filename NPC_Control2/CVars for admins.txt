@@ -1,0 +1,37 @@
+"npc_control_npcprotect" (Def. 1)
+-This allows the admins to prevent other players from moving, and controlling an npc someone else has spawned.
+**This will NOT prevent players from using the physgun, or shooting the npc to death
+
+"npc_allow_actors" (Def. 1)
+-Allows players to spawn, animate, ect. Actors.
+
+"npc_allow_spawning" (Def. 1)
+-Allows players to spawn NPCs
+**Overrides npc_adminonly
+
+"npc_adminonly" (Def. 0)
+-Allows ONLY admins to control npcs.
+
+"npc_allow_moving" (Def. 1)
+-Allows players to tell NPCs and Actors to move about.
+**Overrides npc_adminonly
+
+"npc_allow_specifics" (Def. 1)
+-Allows players to use NPC specific actions. (Eg. Making a combine soldier throw a grenade)
+**Overrides npc_adminonly
+
+"npc_allow_attacking" (Def. 1)
+-Allows players to tell NPCs what to attack and what to like
+**Overrides npc_adminonly
+
+"npc_allow_attacking_players" (Def. 0)
+-Allows players to tell NPCs to attack OTHER players
+
+"npc_allow_relations" (Def. 1)
+-Allow players to change NPCs' dispositions
+
+"npc_allow_health" (Def. 1)
+-Allow players to change an NPC's health
+
+"npc_ep2content" (Def. 1)
+-Choose weather or not to enable Ep2 Content

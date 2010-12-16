@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	$envmapcontrast 1
+        $basetexture "models\cabbie\cabbie92sign64"
+}

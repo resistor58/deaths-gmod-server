@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "models/blackops/warthog_tires"
+	"$surfaceprop" "rubber"
+	"$bumpmap" "models/blackops/warthog_tires_normal" 
+	//"$phong" "1"
+	//"$phongexponent" "5"
+	//"$phongboost" "3"
+	//"$phongfresnelranges"	"[.25 .5 .7]"
+	//"$halflambert" 1
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/gino/eyeball_l"
+	"$iris" "models/gino/pupil"
+	"$halflambert" "1"
+}

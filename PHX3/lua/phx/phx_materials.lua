@@ -1,0 +1,45 @@
+//PhoeniX-Storms Materials
+
+list.Add( "OverrideMaterials", "phoenix_storms/metalset_1-2" )
+list.Add( "OverrideMaterials", "phoenix_storms/metalfloor_2-3" )
+list.Add( "OverrideMaterials", "phoenix_storms/plastic" )
+list.Add( "OverrideMaterials", "phoenix_storms/wood" )
+list.Add( "OverrideMaterials", "phoenix_storms/chrome" )
+list.Add( "OverrideMaterials", "phoenix_storms/black_chrome" )
+list.Add( "OverrideMaterials", "phoenix_storms/bluemetal" )
+list.Add( "OverrideMaterials", "phoenix_storms/cube" )
+list.Add( "OverrideMaterials", "phoenix_storms/dome" )
+list.Add( "OverrideMaterials", "phoenix_storms/gear" )
+list.Add( "OverrideMaterials", "phoenix_storms/stripes" )
+list.Add( "OverrideMaterials", "phoenix_storms/wire/pcb_green" )
+list.Add( "OverrideMaterials", "phoenix_storms/wire/pcb_red" )
+list.Add( "OverrideMaterials", "phoenix_storms/wire/pcb_blue" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_metallic" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_metallic2" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_plastic" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_plastic2" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_carbonfiber" )
+list.Add( "OverrideMaterials", "phoenix_storms/mat/mat_phx_carbonfiber2" )
+
+//Tile Model Pack Materials
+
+list.Add( "OverrideMaterials", "hunter/myplastic" )
+list.Add( "OverrideMaterials", "hunter/mywindow" )
+
+//XQM Model Pack Materials
+
+list.Add( "OverrideMaterials", "Straw/StrawTile_diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/Deg360_diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/BoxFull_diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/CellShadedCamo_diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/2Deg360_diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/SquaredMat" )
+list.Add( "OverrideMaterials", "models/XQM/SquaredMatInverted" )
+list.Add( "OverrideMaterials", "models/XQM/LightLinesRed" )
+list.Add( "OverrideMaterials", "models/XQM/LightLinesGB" )
+list.Add( "OverrideMaterials", "models/XQM/Panel360_Diffuse" )
+list.Add( "OverrideMaterials", "models/XQM/CoasterTrack/Special_Station" )
+list.Add( "OverrideMaterials", "models/XQM/WoodPlankTexture" )
+list.Add( "OverrideMaterials", "models/XQM/CinderBlock_Tex" )
+list.Add( "OverrideMaterials", "models/XQM/WoodTexture_1" )
+list.Add( "OverrideMaterials", "models/XQM/Rails/gumball_1" )

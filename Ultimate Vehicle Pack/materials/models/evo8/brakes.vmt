@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/evo8/brakes"
+	"$translucent" 1
+}

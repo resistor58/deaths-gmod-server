@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mw2/makarov/makarov_hair01"
+	"$translucent" 1
+	"$bumpmap" "models\mw2/makarov/makarov_hair01_norm"
+	"$nocull" 1
+}

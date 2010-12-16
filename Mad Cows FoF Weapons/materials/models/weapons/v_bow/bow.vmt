@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_bow/bow"
+	"$bumpmap" "models\weapons\v_bow/bow_normal"
+
+"$alphatest" "1"
+"$nodecal" "1"
+}

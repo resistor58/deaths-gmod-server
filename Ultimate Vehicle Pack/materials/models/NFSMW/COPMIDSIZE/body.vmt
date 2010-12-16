@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\COPMIDSIZE/body"
+	$envmap		env_cubemap
+	$envmapcontrast	0
+	$envmapmask	models\NFSMW\COPMIDSIZE\body_mask
+	$halflambert	1
+	$model		1
+}

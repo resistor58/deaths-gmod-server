@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+        $basetexture "hilux/trans"
+	$translucent 1
+        $model 1
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Nuke Pack 4"
+	"version"			"4"
+	"up_date"			""
+	"author_name"			"Nuke and TNT by Teta_Bonita, Atomic Bomb by Doomsday, Model Changes by Sgt.Napalm, RayFanMan (RayFan9876) and Hamster, Entities list and Spawn Icons by Sgt.Napalm and RayFanMan (RayFan9876), Nuke_effect_air, nuke_var_inits and nuke_blastwave changes by RayFanMan (RayFan9876)"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Be a terrorist1 :P"
+	"override"			"0"
+}

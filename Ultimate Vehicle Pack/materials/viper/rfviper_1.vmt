@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+        $basetexture "viper/rfviper_1"
+	"$envmap" "env_cubemap" 
+	"$envmaptint" "[.25 .25 .25]" 
+        $model 1
+}

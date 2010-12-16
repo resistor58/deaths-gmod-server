@@ -1,0 +1,10 @@
+"vertexLitGeneric"
+{
+        $basetexture "enzo/tex4"
+	$envmapmask "enzo/tex4"
+        $model 1
+        "$envmap" "env_cubemap"
+	        "$envmaptint" "[.4 .4 .4]"
+	        "$refractamount" ".25"
+        "$refracttint" "[.8 .8 .8]"
+}

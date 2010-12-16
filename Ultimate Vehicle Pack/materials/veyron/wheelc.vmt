@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "veyron/wheelc"
+        $model 1
+}

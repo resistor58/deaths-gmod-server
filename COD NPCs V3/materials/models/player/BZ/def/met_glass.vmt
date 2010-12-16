@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/player/BZ/def/met_glass"
+	"$translucent" 1
+}

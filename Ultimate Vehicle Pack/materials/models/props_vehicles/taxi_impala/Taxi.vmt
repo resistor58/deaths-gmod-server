@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\props_vehicles\taxi_impala\Taxi"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\props_vehicles\taxi_impala\Taxi_norm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" "1"
+}

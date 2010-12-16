@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/evo8/evo_inside"
+//	"$translucent" 1
+}

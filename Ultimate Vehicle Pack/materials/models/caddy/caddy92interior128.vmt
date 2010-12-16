@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+
+        $basetexture "models\caddy\caddy92interior128"
+}

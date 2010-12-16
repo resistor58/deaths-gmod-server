@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "Models/Halo2Hogv7/displays"
+	"$surfaceprop" "metal"
+	"$selfillum" 1		
+}

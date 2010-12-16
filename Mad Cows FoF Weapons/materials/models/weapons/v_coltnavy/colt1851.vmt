@@ -1,0 +1,21 @@
+
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/Weapons/V_coltnavy/colt1851"
+
+
+	"$envmapmask" "models/Weapons/V_coltnavy/colt1851_mask"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" .5
+	"$envmapsaturation" 0.2
+	"$halflambert" 1
+	"$envmapmaskscale" .5
+
+	//"$phong" "1"
+	//"$phongexponenttexture" "models/Weapons/V_coltnavy/colt1851_mask"
+	//"$phongboost"	"0"
+	//"$phongfresnelranges"	"[0 0.5 1]"
+
+	
+}

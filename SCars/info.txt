@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"SCars (Sakarias88 Cars)"
+	"version"			"2.0"
+	"up_date"			""
+	"author_name"		"Sakarias88"
+	"author_email"		"Please don't"
+	"author_url"		""
+	"info"				""
+}

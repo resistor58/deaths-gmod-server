@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\Urangers\mask"
+	"$bumpmap" "models\player\Urangers\mask_NORM"
+}

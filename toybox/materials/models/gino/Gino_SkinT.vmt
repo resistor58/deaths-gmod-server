@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gino/Gino_SkinT"
+	"$bumpmap" "models/gino/Gino_SkinT_bump"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+}

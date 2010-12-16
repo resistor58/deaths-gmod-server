@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Garry's Mod"
+	{
+		"Gm_Ps_HugeFlatConstruct_V2"
+		{
+			"Credits"	"1/4 Life, Garry, Shiroko"
+			"Material"	"maps/hugeflatconstruct"	
+		}
+	}
+	
+}

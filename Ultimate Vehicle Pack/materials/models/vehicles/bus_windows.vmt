@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	//"$model" 1
+	//"$nocull" 1
+	"$baseTexture" "models\vehicles\bus_windows"
+	"$translucent" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\purvisdavid2\vehicles\STALKER\UAZ/veh_uazik_new"
+	"$bumpmap" "models\purvisdavid2\vehicles\STALKER\UAZ/veh_uazik_new_normal"
+}

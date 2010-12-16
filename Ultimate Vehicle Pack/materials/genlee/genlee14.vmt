@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+        $basetexture "genlee/genlee14"
+	"$envmap" "env_cubemap" 
+	"$envmaptint" "[.35 .35 .35]" 
+        $model 1
+}

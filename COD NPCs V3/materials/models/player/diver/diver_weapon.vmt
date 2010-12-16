@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/diver/diver_weapon"
+	"$bumpmap" "models/player/diver/diver_weapon_n"
+ 	"$phong" "1"
+	"$phongexponent" "4.8"
+	"$phongboost"	"1.05"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

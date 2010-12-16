@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\banshee/banshee_badges"
+	"$translucent" 1
+}

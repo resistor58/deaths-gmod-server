@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/misc"
+	//$surfaceprop	"plastic"
+	$model		1
+}

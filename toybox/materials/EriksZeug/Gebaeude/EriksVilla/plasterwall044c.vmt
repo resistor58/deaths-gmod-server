@@ -1,0 +1,14 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "plaster/plasterwall044c"
+	"$surfaceprop"  "plaster"
+
+	"$bumpmap" "plaster/plasterwall044c_normal"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .2
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

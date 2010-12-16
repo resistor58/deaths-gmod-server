@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mw2/cop/cop_leg"
+	"$bumpmap" "models\mw2/cop/cop_leg_n"
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.1 0.2 9]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+
+}

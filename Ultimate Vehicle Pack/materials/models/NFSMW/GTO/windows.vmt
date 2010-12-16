@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$baseTexture	"models\NFSMW\GTO/windows"
+	$envmap		"env_cubemap"
+	$envmapcontrast	0.5
+	$translucent	1
+	//$surfaceprop	"glass"
+	$model		1
+}
